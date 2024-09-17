@@ -20,7 +20,7 @@ const options: ApexOptions = {
     bar: {
       horizontal: false, // Vertical bars
       columnWidth: '55%',
-      endingShape: 'rounded',
+    
     },
   },
   colors: ["#3C50E0", "#80CAEE", "#FF5733", "#33FF57", "#FFC300"], // Bar colors for each category
