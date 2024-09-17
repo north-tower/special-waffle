@@ -7,13 +7,16 @@ const brandData: BRAND[] = [
     name: "Beach",
     visitors: 3.5,
     revenues: "active",
-
+    sales: 33,
+    conversion: 44
   },
   {
     logo: "/images/brand/brand-02.svg",
     name: "Pepsi",
     visitors: 2.2,
     revenues: "active",
+    sales: 33,
+    conversion: 44
     
   },
   {
@@ -21,6 +24,8 @@ const brandData: BRAND[] = [
     name: "Super Bowl",
     visitors: 2.1,
     revenues: "active",
+    sales: 33,
+    conversion: 44
  
   },
   // {
